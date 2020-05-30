@@ -14,3 +14,4 @@ It consists of following Analysis and Visualizations:-
 10. Indian Council of Medical Research (ICMR) testing details
 11. States/Union territories and districts with the highest and the lowest number of confirmed COVID-19 cases
 12. Important COVID-19 details of India and each of its states and union territories
+![](ICMRTestingdetails.JPG)
